@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">The Last Five</string>
+
+    <string name="title_activity_dashboard">The Last Five</string>
+    <string name="title_add_entry">New</string>
+    <string name="title_history">History</string>
+    <string name="title_activity_new_entry">New Weight Entry</string>
+    <string name="title_ok">OK</string>
+    <string name="title_cancel">Cancel</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="unit_of_measure">Unit of Measure</string>
+    <string name="uom_metric_weight_length">kg/cm</string>
+    <string name="uom_imperial_weight_length">lb/ft</string>
+    <string name="uom_metric_weight">(kg)</string>
+    <string name="uom_imperial_weight">(lbs)</string>
+    <string name="uom_metric_length">(cm)</string>
+    <string name="uom_imperial_length">(in)</string>
+
+    <string name="about">About</string>
+    <string name="general">General</string>
+    <string name="other">Other</string>
+
+    <string name="no">no</string>
+    <string name="yes">yes</string>
+
+    <string name="show_max_line">Show Max. Line</string>
+    <string name="show_min_line">Show Min. Line</string>
+    <string name="show_goal_line">Show Goal Line</string>
+    <string name="progress_chart">Progress Chart</string>
+    <string name="tap_to_select_date">(tap to select date)</string>
+    <string name="goal_date">Goal Date</string>
+    <string name="starting_weight">Starting Weight</string>
+    <string name="desired_weight">Desired Weight</string>
+    <string name="goals">Goals</string>
+    <string name="height">Height</string>
+
+    <string name="gender">Gender</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+
+    <string name="profile">Profile</string>
+    <string name="version">Version…</string>
+
+    <string name="backup_and_restore">Backup and Restore</string>
+    <string name="last_backed_up">Last Backed Up</string>
+    <string name="never">Never</string>
+    <string name="backup_now">Backup Now</string>
+    <string name="restore">Restore</string>
+
+    <string name="title_activity_bmi">BMI</string>
+    <string name="bmi">BMI</string>
+    <string name="bmi_underlined"><u>BMI</u></string>
+    <string name="classification_underlined"><u>CLASSIFICATION</u></string>
+    <string name="bmi_underweight">Underweight</string>
+    <string name="bmi_underweight_range"><![CDATA[< 18.5]]></string>
+    <string name="bmi_healthy_weight">Healthy Weight</string>
+    <string name="bmi_healthy_weight_range">18.5 – 24.9</string>
+    <string name="bmi_overweight">Overweight</string>
+    <string name="bmi_overweight_range">25.0 – 29.9</string>
+    <string name="bmi_obese">Obese</string>
+    <string name="bmi_obese_range">30.0 – 39.9</string>
+    <string name="bmi_extremely_obese">Extremely Obese</string>
+    <string name="bmi_extremely_obese_range"><![CDATA[>= 40.0]]></string>
+    <string name="weight_down_indicator">▼</string>
+    <string name="weight_up_indicator">▲</string>
+
+    <string name="selfie_image">Selfie Image</string>
+    <string name="take_a_selfie">Take a Selfie</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+
+    <string name="weight">Weight</string>
+    <string name="date">Date</string>
+    <string name="photo">Photo</string>
+    <string name="notes">Notes</string>
+    <string name="create_test_data">Create test data</string>
+    <string name="example_entry_date">2019–07–29</string>
+    <string name="example_entry_weight">189.1</string>
+    <string name="example_entry_notes">Well… found the plateau!.</string>
+    <string name="current">Current</string>
+    <string name="three_dashes">---</string>
+    <string name="weight_difference">Weight Diff.</string>
+    <string name="average_loss">Avg. Loss</string>
+    <string name="goal">Goal</string>
+    <string name="days_to_goal">Days to Goal</string>
+</resources>
