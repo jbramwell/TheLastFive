@@ -18,3 +18,4 @@ steps:
     publishJUnitResults: false
     testResultsFiles: '**/TEST-*.xml'
     tasks: 'assembleDebug'
+    jdkVersionOption: '1.17'
